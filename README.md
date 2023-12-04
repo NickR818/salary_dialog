@@ -1,2 +1,2 @@
 # salary_dialog
-Sample Java program made to calculate am employee's hourly wage
+Sample Java program made to calculate an employee's hourly wage
